@@ -4,7 +4,7 @@ Food Delivery System (Java) | swing | event handling | OJDBC
 ORACLE SQL:=
 
 DATABASE NAME: javadb || 
-PASSWORD: abcd
+DATABASE PASSWORD: abcd
 -------------------------------------------------------------------
 tables:=
 1. login
